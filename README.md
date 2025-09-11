@@ -7,9 +7,6 @@ O site apresenta **programação, palestrantes, localização e formulário de i
 
 ## 📸 Demonstração
 
-<img src="Imagens/logo.jpg" alt="Logo Gastronomia dos Donuts" width="120"/>
-
-### Print do site
 ![Print da Página Inicial](Imagens/preview_site.png)
 
 ---
@@ -88,5 +85,4 @@ Este projeto foi desenvolvido apenas para fins **educacionais** durante o Progra
 
 ## 👩‍💻 Autora
 
-Desenvolvido com carinho por **July Ribeiro** 💖  
-<img src="Imagens/coracao_rosa.png" width="20" alt="Coração Rosa"/>  
+Desenvolvido com carinho por **July Ribeiro** <img src="Imagens/coracao_rosa.png" width="20" alt="Coração Rosa"/>  
